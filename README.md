@@ -1,6 +1,5 @@
 # Data-Cleaning-of-Real-Data
-Data Cleaning of Real Data
-Dashboard 1
+Intro
 ![Project Screenshot](https://github.com/Nishantt98/Data-Cleaning-of-Real-Data/blob/main/Dashboard1.png)
 Dashboard 2
 ![Project Screenshot](https://github.com/Nishantt98/Data-Cleaning-of-Real-Data/blob/main/Dashboard2.png)
