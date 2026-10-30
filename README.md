@@ -1,9 +1,9 @@
-# Data-Cleaning-of-Real-Data
-Intro
+# Data-Cleaning-of-Real-Data**
+**Introduction**
 ![Project Screenshot](https://github.com/Nishantt98/Data-Cleaning-of-Real-Data/blob/main/Dashboard1.png)
-Dashboard 2
+**Data Cleaning**
 ![Project Screenshot](https://github.com/Nishantt98/Data-Cleaning-of-Real-Data/blob/main/Dashboard2.png)
-Dashboard 3
+**Data Exploratory Analysis**
 ![Project Screenshot](https://github.com/Nishantt98/Data-Cleaning-of-Real-Data/blob/main/Dashboard3.png)
 Dashboard 4
 ![Project Screenshot](https://github.com/Nishantt98/Data-Cleaning-of-Real-Data/blob/main/Dashboard4.png)
